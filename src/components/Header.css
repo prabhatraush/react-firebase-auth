@@ -1,0 +1,36 @@
+.header_container,.header_menu{
+    display: flex;
+}
+
+.header_container{
+    justify-content: space-between;
+    padding: 1rem 3rem;
+    background-color: aquamarine;
+}
+
+.header_logo{
+    font-size: 30px;
+    font-weight: 900;
+    padding:0rem 1rem;
+}
+
+.header_menu{
+    align-self: center;
+}
+
+.header_item{
+    padding:0rem 1rem;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+
+.header_item>img{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    margin-top:10px;
+    margin-right: 5px;
+    border: 1px solid #E1306C
+}

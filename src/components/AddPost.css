@@ -1,0 +1,26 @@
+.add_post{
+    max-width: 500px;
+    margin:10px auto;
+    padding:30px;
+    /* border:1px solid #000000; */
+    border-radius: 10px;
+    box-shadow: 2px 0px 12px 0px #cacaca;
+}
+
+.input_field{
+    width: 100%;
+    padding:10px 5px;
+    border:1px solid #00000023;
+    padding:10px;
+    margin:10px 0px;
+    box-sizing: border-box;
+}
+
+textarea{
+    height:150px;
+    width: 98%;
+    border:none;
+    padding:20px;
+    font-size:16px;
+    box-sizing: border-box;
+}
